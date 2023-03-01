@@ -1,0 +1,1 @@
+7 7 * * * /usr/bin/python3 /path/to/etl.py
